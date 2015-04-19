@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1AAD2336-F639-4281-A69B-3B7C02E2A995</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Xib4.7Fit2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CF8065EFB2C85AE99A905724E67A25A55A965F51</key>
+		<string>https://github.com/fanlanjun/Xib4.7Fit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Xib4.7Fit2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CF8065EFB2C85AE99A905724E67A25A55A965F51</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fanlanjun/Xib4.7Fit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CF8065EFB2C85AE99A905724E67A25A55A965F51</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CF8065EFB2C85AE99A905724E67A25A55A965F51</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Xib4.7Fit2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
